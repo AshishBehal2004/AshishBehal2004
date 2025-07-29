@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashish_behal_2" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_behal_2?logo=twitter&style=for-the-badge" alt="ashish_behal_2" /></a> </p>
 
-- 🔭 I’m currently working on **Minesweeper**
+- 🔭 Current Working Pogress **Minesweeper**
 
 - 🌱 I’m currently learning: **ASP.NET CORE,Swift,React**
 
