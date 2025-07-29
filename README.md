@@ -7,10 +7,10 @@
 
 - 🔭  <img align="center" height="22" src="https://media1.tenor.com/m/-r1FcJGxGFMAAAAd/loading-bar.gif"  /> Current Work in Pogress **Minesweeper**
  
-- 🌱 I’m currently learning: **ASP.NET CORE,Swift,React**
+- 🌱 I’m currently learning: <img align="center" height="42" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg"  /> **ASP.NET CORE, Swift, React**
 
-- 📫 How to reach me **ashishbehal52@gmail.com**
-
+- 📫 How to reach me <img align="center" height="22" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"  /> **ashishbehal52@gmail.com** | <img align="center" height="42" src="https://static.vecteezy.com/system/resources/previews/029/824/490/large_2x/microsoft-outlook-logo-transparent-free-png.png"  /> **behay002@mymail.unisa.edu.au**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashish_behal_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_behal_2" height="30" width="40" /></a>
