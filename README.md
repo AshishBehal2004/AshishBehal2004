@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/ashish_behal_2" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_behal_2?logo=twitter&style=for-the-badge" alt="ashish_behal_2" /></a> </p>
 
-- 🔭 Current Working Pogress **Minesweeper**
-
+- 🔭  <img align="center" height="22" src="https://media1.tenor.com/m/-r1FcJGxGFMAAAAd/loading-bar.gif"  /> Current Work in Pogress **Minesweeper**
+ 
 - 🌱 I’m currently learning: **ASP.NET CORE,Swift,React**
 
 - 📫 How to reach me **ashishbehal52@gmail.com**
