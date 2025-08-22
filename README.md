@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbehal2004&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbehal2004" /> </p>
 
-- 🔭  <img align="center" height="22" src="https://media1.tenor.com/m/-r1FcJGxGFMAAAAd/loading-bar.gif"  /> Current Work in Pogress: **Minesweeper**
+- 🔭   Current Work in Pogress: **Minesweeper**
  
 - 🌱 I’m currently learning: <img align="center" height="42" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg"  /> **ASP.NET CORE, Swift, React**
 
