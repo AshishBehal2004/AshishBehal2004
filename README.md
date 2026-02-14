@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbehal2004&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbehal2004" /> </p>
 
-- 🔭   Current Work in Pogress: **Minesweeper**
+- 🔭   Current Work in Pogress: **Credit Card Fraud Detection**
  
 - 🌱 I’m currently learning: <img align="center" height="42" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg"  /> **ASP.NET CORE, Swift, React**
 
