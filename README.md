@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ashish Behal</h1>
-
-<p align="center">
-  <em>Software Developer · University of Adelaide · Adelaide, SA 🇦🇺</em>
-</p>
-
----
-
 ## 🙋 About Me:
 
 Hey, I'm Ashish, final year software dev student at the Adelaide University who genuinely enjoys the problem-solving side of programming. Backend systems are where I feel most at home, though I'll happily venture into the frontend when needed.
