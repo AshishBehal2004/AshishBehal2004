@@ -62,7 +62,7 @@ When I'm not coding, you'll find me going down rabbit holes on trading systems."
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishBehal2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AshishBehal2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=AshishBehal2004&theme=dark&hide_border=false" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishBehal2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AshishBehal2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
