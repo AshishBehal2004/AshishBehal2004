@@ -3,7 +3,7 @@
 Hey, I'm Ashish, final year software dev student at the Adelaide University who genuinely enjoys the problem-solving side of programming. Backend systems are where I feel most at home, though I'll happily venture into the frontend when needed.
 
 I had the chance to intern at ARCIVE, where I built and shipped a WebGL virtual tour of a commercial kitchen, debugging Brotli compression issues and WebXR errors along the way. It was a great reminder that real projects are messy, and I'm here for it.
-Lately I've been grinding Neetcode (Blind 75 in Java) and picking up C++ on the side, both humbling in the best way.
+Lately I've finished grinding Neetcode (Blind 75 in Java) and picking up C++ on the side.
 
 When I'm not coding, you'll find me going down rabbit holes on trading systems."
 
