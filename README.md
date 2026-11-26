@@ -11,7 +11,7 @@ When I'm not coding, you'll find me going down rabbit holes on trading systems."
 - 💼 Former intern at **ARCIVE** (Australian Research Centre for Interactive & Virtual Environments)
 <!-- - 🔭 Currently working on: **Credit Card Fraud Detection** -->
 - 🌱 Currently learning: **Rust**
-- 👀 Open to **junior / graduate developer roles** in Adelaide
+- 👀 Open to **junior / graduate developer/engineer roles** in Adelaide
 - 📬 Reach me at: **ashishbehal52@gmail.com**
 
 ---
